@@ -1,16 +1,25 @@
-### 我是东玄海 👋
+### 我是 wds
+
+- 🔭在一所“双飞”读大三
+- 🌱 在学习QT以及MV。
+- 💬 Ask me about   email：wdsnpshy@163.com
+- ⚡ 感兴趣：C++ MV
 
 
-**wds-dxh/wds-dxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**技术栈**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+会一点c++，python
+
+stm32 Esp32 arduino 机器学习，图像处理。
+
+
+
+**自我评价**
+
+**热爱祖国**，性格开朗、有活力，待人真诚，具有团队合作精神。对待项目有耐心，不畏惧难题，预见问题勇于面对。
+
+喜欢在闲暇时间学习嵌入式相关知识。**正在做**也希望能在将来非常熟悉硬件设计，软件开发，结构设计，全流程开发，
+
+熟 悉前端开发，深度学习模型训练部署，期待在将来能够独立完成一个完整的大型嵌入式项目。
 
